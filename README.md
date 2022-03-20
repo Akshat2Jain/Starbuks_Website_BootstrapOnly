@@ -1,4 +1,4 @@
-# Starbuks_Website_BootstrapOnly
+# Starbucks_Website_BootstrapOnly
 In this project I have created a full responsive website for Starbuks only in htmls, No css,no jss included. 
 ------------------------------------------------------------------------------------------------------------
 
